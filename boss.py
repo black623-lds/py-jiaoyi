@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-利用requests+bs4爬取Boss直聘数据
-author: gxcuizy
-date: 2020-06-18
-"""
-
 import requests
 from bs4 import BeautifulSoup
 
